@@ -26,7 +26,7 @@
 
 - 打开github：
 
-  <div align="center"> <img src="pics/gitHub打开密钥.png" width="360"/> </div><br>
+  a
 
   
 
